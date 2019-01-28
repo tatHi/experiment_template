@@ -1,6 +1,6 @@
 # experiment_template
-Template for experiment on text classification.
-(English var. readme is comming soon)
+Template for experiment on text classification.  
+(English var. readme is comming soon)  
 実験をする時のオレオレテンプレート．  
 テキスト分類を例に，どこにデータを置くか，どこにconfigを書くか，どこに結果を吐くかを雛形にしています．  
 ダミーのtrain.pyを使うと，それっぽい結果が/expt/以下に出力されます．  
