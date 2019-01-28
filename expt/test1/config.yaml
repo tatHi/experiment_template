@@ -1,0 +1,5 @@
+datasetPath: ../data/dataset1/dataset1.json
+maxEpoch: 3
+hyp1: 10
+hyp2: 20
+hyp3: 30
