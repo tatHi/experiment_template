@@ -29,14 +29,14 @@ Template for experiment on text classification.
 実験に用いるソースコードです．  
 #### dataset.py
 dataset.jsonを読み込んだり，語彙数やラベル数などの情報を抜き出したりします．  
-### model.py
+#### model.py
 分類器のダミーコードです．    
 文に0が含まれたらラベル0，それ以外は1を返します．  
 update関数はダミーです．  
-### handler.py
+#### handler.py
 modelとdatasetを使って学習，評価を行うための処理が書かれています．  
 trainとevaluateの二つが同時に存在しているのは微妙かもしれない．  
-## train.py
+#### train.py
 handlerを使ってモデルを学習し，結果とモデルを吐き出すコードです．
 以下のコマンドでダミーを動かせます．
 ```
