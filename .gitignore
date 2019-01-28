@@ -2,4 +2,3 @@
 !/expt/*/config.yaml
 /src/__pycache__/
 /src/*.pyc
-/data/*
